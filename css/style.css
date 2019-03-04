@@ -108,6 +108,7 @@ body {
 .u-margin-top-big {
   margin-top: 8rem; }
 
+<<<<<<< Updated upstream
 .bg-video {
   position: absolute;
   top: 0;
@@ -121,6 +122,10 @@ body {
     height: 100%;
     width: 100%;
     object-fit: cover; }
+=======
+.u-margin-top-huge {
+  margin-top: 10rem; }
+>>>>>>> Stashed changes
 
 .btn:link, .btn:visited {
   text-transform: uppercase;
